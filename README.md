@@ -1,4 +1,4 @@
-# Basics of NLP
+# Basics of Natural Language Processing
 ### Table of Contents
 1. [Installations](#installations)
 2. [CoNLL Shared Tasks](#conll)
